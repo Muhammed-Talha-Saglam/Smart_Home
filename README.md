@@ -1,1 +1,1 @@
-This app is an example of MVC, state management in Flutter
+This app is an example of MVC and State Management in Flutter
